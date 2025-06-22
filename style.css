@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #e63946;
+  padding: 20px;
+  text-align: center;
+}
+header h1 {
+  margin: 0;
+  font-size: 24px;
+}
+.articles {
+  padding: 20px;
+}
+.articles article {
+  margin-bottom: 20px;
+}
+.articles a {
+  color: #f1c40f;
+  text-decoration: none;
+}
+.cta {
+  background: #2ecc71;
+  text-align: center;
+  padding: 15px;
+  font-size: 18px;
+  margin: 20px;
+}
+.cta a {
+  color: #fff;
+  font-weight: bold;
+}
+footer {
+  background: #222;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+  color: #aaa;
+}
